@@ -1,6 +1,7 @@
 body {
     background-color: #e9ecef;
     font-family: 'Arial', sans-serif;
+    user-select: none;
 }
 
 h2, h3, h5 {
