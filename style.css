@@ -1,0 +1,28 @@
+body {
+    background-color: #e9ecef;
+    font-family: 'Arial', sans-serif;
+}
+
+h2, h3, h5 {
+    font-family: 'Roboto', sans-serif;
+}
+
+.profile-image img {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    border: 4px solid #fff;
+}
+
+.card {
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.text-primary {
+    color: #004085 !important;
+}
+
+.bi-check-circle-fill, .bi-flag-fill {
+    margin-right: 10px;
+}
